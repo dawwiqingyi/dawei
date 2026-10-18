@@ -22,6 +22,7 @@ local WhitelistConfig = {
 ["OvOICat"] = true,
 ["woshinanshen_Chinese"] = true,
 ["ekxxme6"] = true,
+["cokejwjjd"] = true,
 ["13743457516434"] = true,
 ["yykx66999"] = true,
 ["yykx6699"] = true,
