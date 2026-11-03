@@ -21,6 +21,7 @@ local WhitelistConfig = {
 ["YUOAKB1"] = true,
 ["vv980212"] = true,
 ["ADCBK1257"] = true,
+["unstoppablestar1"] = true,
 ["love131452102"] = true,
 ["OvOICat"] = true,
 ["woshinanshen_Chinese"] = true,
