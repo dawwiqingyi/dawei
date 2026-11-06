@@ -13,6 +13,7 @@ local WhitelistConfig = {
 ["NAIMIAN5"] = true,
 ["z82336"] = true,
 ["baidayo"] = true,
+["WYK_838"] = true,
 ["yqy661895"] = true,
 ["hui52050"] = true,
 ["bob917818"] = true,
