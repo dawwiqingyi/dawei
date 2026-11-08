@@ -82,6 +82,7 @@ local WhitelistConfig = {
 ["okok080956"] = true,
 ["908070aae"] = true,
 ["IDC7830"] = true,
+["CursedSwaan"] = true,
 ["xROBLOX_USERRR7x"] = true,
 ["xxKotaRoo7vxx"] = true,
 ["LYRA_M09"] = true,
